@@ -1,0 +1,1 @@
+New-AzADUser -DisplayName "John Doe" -UserPrincipalName "john.doe@@fareeda1011outlook.onmicrosoft.com" -MailNickname "johndoe" -AccountEnabled $true -Password "StrongP@ssw0rd!"
